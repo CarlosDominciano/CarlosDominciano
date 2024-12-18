@@ -39,5 +39,5 @@
 </div><br>
 
 <div>
-    <img alt="coding_gif" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGU1aDd4YnZzazR6aXE3ZXNiNnF0M2pjYTFwZWgwamU2c3dyMm16cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lQDdDwdZpfYRn1MsJy/giphy.webp"><br>
+    <img alt="coding_gif" src="https://media.giphy.com/media/l4FGs5dbisGxm5b9e/giphy.gif?cid=790b7611tu5h1ja7mo0ckgu70yzljbmctizg29yraz5w0erk&ep=v1_gifs_search&rid=giphy.gif&ct=g"><br>
 </div>
